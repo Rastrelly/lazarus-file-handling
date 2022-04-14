@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="pexfh.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uexfh.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="103"/>
+        <CursorPos X="17" Y="133"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="9924"/>
+        <CursorPos Y="9942"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="uexfh.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="66" Column="7" TopLine="35"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="67" Column="7" TopLine="36"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="69" Column="7" TopLine="38"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="92" Column="31" TopLine="57"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="58" Column="41" TopLine="101"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="79" Column="15" TopLine="55"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uexfh.pas"/>
+        <Caret Line="138" Column="17" TopLine="106"/>
+      </Position8>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
